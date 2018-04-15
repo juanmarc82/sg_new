@@ -10,5 +10,7 @@ $conexion = mysqli_connect(HOST_BBDD, USER_BBDD, PASS_BBDD, NAME_BBDD);
 if($conexion === false){
     die("ERROR: Error de conexión " . mysqli_connect_error());
 }
+
+$root='/sg_new/';
  
 ?>
