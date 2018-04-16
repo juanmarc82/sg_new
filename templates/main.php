@@ -4,7 +4,7 @@
 <body>
 	<!--menu aquí--> <?php include ('menu.php');?>
 	<main>
-	<!-- contenido aquí--> <?php include ($template_section);?>
+	<!-- contenido aquí--> <?php include ($template_seccion);?>
 	</main>
 </body>
 </html>

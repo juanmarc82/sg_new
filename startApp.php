@@ -12,5 +12,6 @@ if($conexion === false){
 }
 
 $root='/sg_new/';
- 
+
+$template_seccion = "templates/home.php"; 
 ?>
